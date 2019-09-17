@@ -1,4 +1,4 @@
-package bean
+package goa
 
 // Method Http谓词
 type Method string
